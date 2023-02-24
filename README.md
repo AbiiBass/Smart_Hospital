@@ -1,5 +1,7 @@
 # Smart_Hospital
-This project involves communication between Raspberry Pi and Arduino Uno. Communication is done through bluetooth. Besides communicating with Raspberry Pi, Arduino also communicated with Alexa through Wi-Fi switch. This is a student project done in the time scope mid December 2021 to January 2022
+This project involves communication between Raspberry Pi and Arduino Uno. Communication is done through bluetooth. Besides communicating with Raspberry Pi, Arduino also communicated with Alexa through Wi-Fi switch. This is a student project done in the time scope mid December 2021 to January 2022. <br /> 
+Video Description of the Project
+https://youtu.be/XvT4zGkShr4
 
 | Devices Used |   | Componenets |   | Programming Languags |
 |--------------|---|-------------|---|----------------------|
